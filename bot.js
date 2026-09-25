@@ -157,7 +157,7 @@ function preprocessAIMessage(text) {
 }
 
 const TOKEN = 'MTUzMjI3Mzc4NjEwMjA4NzgwMg.GbsXJK.0ZjLrHXv2jQurnIoNq6PPN9gdwq5fUJh9O0u-w';
-const GUILD_ID = '1520318197608484984';
+const GUILD_ID = '1552902914182357054';
 const OWNER_ID = '994109669381505044';
 const BOT_START_TIME = Date.now();
 
